@@ -12,7 +12,8 @@
 <!-- Repository Showcase -->
 | My Open Source | Featured Repositories |
 |-|-
-BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API)| Other Projects:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Other-Repo)
+BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API)
+(https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Esport-Hub&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Esport-Hub)| Other Projects:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Other-Repo)
 
 <hr>
 
