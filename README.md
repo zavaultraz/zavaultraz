@@ -1,10 +1,10 @@
 <div align="center"> 
 
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Best%20Languages%20&desc=Android,Node.js,Web,Server,Mod&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Best%20Languages%20&desc=Android,Node.js,Web,Server,Mod&fontSize=40" />
 
 <!-- Visitor Count -->
-|<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Visitor%20Count&fontSize=60"/><img src="https://profile-counter.glitch.me/zavaultraz/count.svg" />|
+|<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Visitor%20Count&fontSize=60"/><img src="https://profile-counter.glitch.me/zavaultraz/count.svg" />|
 |-
 
 <!-- Repository Showcase -->
@@ -28,7 +28,7 @@ BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 
 <!-- Collaboration Poem -->
 <hr>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&text=Let's%20Collaborate!&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=30&color=gradient&text=Let's%20Collaborate!&fontSize=40"/>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Mari%20bekerja%20sama!;Let's%20work%20together!;¡Colaboremos!;Zusammenarbeiten!;合作!&width=550&center=true&size=37&weight=700&height=80&pause=2000">
 
 <hr>
