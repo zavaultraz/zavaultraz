@@ -1,10 +1,10 @@
 <div align="center"> 
 
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=007acc&height=200&animation=fadeIn&section=header&text=Welcome%20to%20My%20Profile&fontAlignY=30&desc=Software%20Engineer%20from%20Indonesia&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20Profile&fontSize=40" />
 
 <!-- Visitor Count -->
-|<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=100&animation=fadeIn&section=header&text=Visitor%20Count&fontSize=60"/><img src="https://profile-counter.glitch.me/zavaultraz/count.svg" />|
+|<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Visitor%20Count&fontSize=60"/><img src="https://profile-counter.glitch.me/zavaultraz/count.svg" />|
 |-
 
 <!-- Repository Showcase -->
@@ -15,8 +15,8 @@ BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 <hr>
 
 <!-- Contact Information -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Contact%20Me&fontSize=40"/><br>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Email:your-email@example.com&fontSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&text=Contact%20Me&fontSize=40"/><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&text=Email:your-email@example.com&fontSize=30"/>
 
 <!-- Skills -->
 <h3>Technologies Used:</h3>
@@ -28,7 +28,7 @@ BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 
 <!-- Poem -->
 <hr>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=My%20Journey%20in%20Tech&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&text=My%20Journey%20in%20Tech&fontSize=40"/>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20with%20passion%20and%20creativity...&width=550&center=true&size=37&weight=700&height=80&pause=2000">
 
 <hr>
