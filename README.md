@@ -10,12 +10,11 @@
 <hr>
 
 <!-- Repository Showcase -->
-| My Open Source | Featured Repositories |
-|-|-
-BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API)
-(https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Esport-Hub&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Esport-Hub)| Other Projects:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Other-Repo)
+| My Open Source Projects | Featured Repositories |
+|-------------------------|-----------------------|
+| **BOOK SHELF API**:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API) | **Esport Hub**:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Esport-Hub&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Esport-Hub) |
+| **Other Projects**:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Other-Repo) |  |
 
-<hr>
 
 <!-- Contact Information -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Contact%20Me:%20zavazaneta.pi@gmail.com&fontSize=40"/>
