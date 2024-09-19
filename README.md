@@ -1,27 +1,35 @@
-<h1 align="center">Hi 👋, I'm Zava zaneta</h1>
-<h3 align="center">A enthusiast web development & programing from indonesia</h3>
+<div align="center"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zavaultraz&label=Profile%20views&color=0e75b6&style=flat" alt="zavaultraz" /> </p>
+<!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=00ffff&height=200&animation=fadeIn&section=header&text=Welcome%20to%20My%20Book%20Shelf%20API&fontAlignY=30&desc=Manage%20Your%20Books%20Effortlessly&fontSize=40" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zavaultraz" alt="zavaultraz" /></a> </p>
+<!-- Visitor Count -->
+|<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=100&animation=fadeIn&section=header&text=Visitor%20Count&fontSize=60"/><img src="https://profile-counter.glitch.me/LingASDJ/count.svg" />|
+|-
 
-- 🌱 I’m currently learning **Frameworks**
+<!-- Repository Showcase -->
+| My Open Source | Featured Repositories |
+|-|-
+Book Shelf API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API)| Other Projects:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/LingASDJ/Other-Repo)
 
-- 👨‍💻 All of my projects are available at [https://zavaultraz.github.io/PORTOFOLIO/](https://zavaultraz.github.io/PORTOFOLIO/)
+<hr>
 
-- 📫 How to reach me **zavazaneta.pi@gmail.com**
+<!-- Contact Information -->
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Contact%20Me&fontSize=40"/><br>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Email:your-email@example.com&fontSize=30"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/zavvvv_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zavvvv_9" height="30" width="40" /></a>
-</p>
+<!-- Skills -->
+<h3>Technologies Used:</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript" /><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Stats -->
+|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zavaultraz&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zavaultraz&hide_title=true&hide_border=true&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
+|-|-
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/zavvv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zavvv" /></a></p><br><br>
+<!-- Poem -->
+<hr>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=My%20Journey%20with%20Books&fontSize=40"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Books%20are%20the%20gateway%20to%20adventure...&width=550&center=true&size=37&weight=700&height=80&pause=2000">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zavaultraz&show_icons=true&locale=en&layout=compact" alt="zavaultraz" /></p>
-
-Support 🙏
+<hr>
+</div>  
