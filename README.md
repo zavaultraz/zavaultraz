@@ -10,11 +10,9 @@
 <hr>
 
 <!-- Repository Showcase -->
-<h3>My Open Source Projects</h3>
-| Project | Description |
-|---------|-------------|
-| **BOOK SHELF API** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API) |
-| **Other Projects** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Other-Repo) |
+| My Open Source | Featured Repositories |
+|-|-
+BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=BOOK-SHELF-API&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/BOOK-SHELF-API)| Other Projects:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zavaultraz&repo=Other-Repo&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/zavaultraz/Other-Repo)
 
 <hr>
 
