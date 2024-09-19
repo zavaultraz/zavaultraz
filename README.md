@@ -1,7 +1,7 @@
 <div align="center"> 
 
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Best%20Languages%20&desc=Android,Node.js,Web,Server,Mod&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I'am%20Zava%20Zaneta%20👋%20&desc=Software Engineer From Indonesia&fontSize=40" />
 
 <!-- Visitor Count -->
 |<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Visitor%20Count&fontSize=60"/><img src="https://profile-counter.glitch.me/zavaultraz/count.svg" />|
@@ -19,7 +19,7 @@ BOOK SHELF API:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 
 <!-- Skills -->
 <h3>Technologies Used:</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,react,laravel,bootstrap,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,react,laravel,bootstrap,html,css,nodejs,figma" /><br>
 
 <!-- Stats -->
 |<img height="300px" src="https://github-readme-stats.vercel.app/api?username=zavaultraz&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavaultraz&hide_title=true&hide_border=true&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
