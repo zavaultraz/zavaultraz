@@ -21,7 +21,7 @@
 
 <!-- Skills -->
 <h3>Technologies Used:</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,react,laravel,bootstrap,html,css,figma" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,react,laravel,bootstrap,html,css,figma,flutter" /><br>
 
 <hr>
 
